@@ -1,0 +1,76 @@
+{
+  "seo": {
+    "title": "Longfall | Official Electronic Press Kit (EPK)",
+    "description": "Cinematic Alt-Rock",
+    "ogImage": "assets/heroBanner.jpg"
+  },
+  "artistName": "The Nine Teas",
+  "tagline": "Cinematic Alt-Rock",
+  "location": "Minneapolis / St. Paul, MN",
+  "genreTags": [],
+  "pressKitDownloadUrl": null,
+  "assets": { 
+    "heroBannerImage": "assets/heroBanner.jpg",
+    "artistLogoImage": "assets/artistLogo.png",
+    "stagePlotImage": "assets/stagePlot.png",
+    "techRiderDocument": null
+  },
+  "heroVideo": {
+    "type": "youtube",
+    "videoId": "FevPpTX9bWA",
+    "caption": "New album 'Idols' coming soon!",
+    "aspectRatio": "16x9"
+  },
+  "shortBio": "Longfall is a cinematic alt-rock band from Minneapolis/St Paul.",
+  "fullBio": [
+"With an emphasis on storytelling they lean into well-crafted lyrics and wide ranging sonic pallet to guide listeners through an emotional musical experience. A single musical number may diverge from a waltz to ambient interlude to hip hop infused bridge and supported by R&B melodies. Longfall's genre bending is all in support of thematic detours within the musical journey."
+  ],
+  "notableHighlights": [
+    "Reuniting to release a new album 'Idols' - 5 years in the making!",
+    "Looking to launch the album in early 2027",
+    "Stay tuned for an announcement of the venue & date",
+    "This will be the first time the classic 4 piece lineup will perform together since pre-covid"
+  ],
+  "spotifyEmbedUrl": "https://open.spotify.com/embed/album/4PixurqBEr0MrWUoOYKS0B?utm_source=generator&si=3ffe474fda1c431f",
+  "tracks": [ ],
+  "pressPhotos": [
+    {
+      "src": "assets/pressPhoto01.jpg",
+      "caption": "Sollie and Dev at our What We Found album release at 7th St Entry",
+      "hiResUrl": "assets/pressPhoto01_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto02.jpg",
+      "caption": "Braydon & Tony at our What We Found album release at 7th St Entry",
+      "hiResUrl": "assets/pressPhoto02_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto03.jpg",
+      "caption": "Live at the Cabooze",
+      "hiResUrl": "assets/pressPhoto03_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto04.jpg",
+      "caption": "From the stage after a great show",
+      "hiResUrl": "assets/pressPhoto04_hiRes.jpg"
+    }
+  ],
+  "pressQuotes": [
+    {
+      "quote": "Longfall makes fragile, grandiose, soundscape rock, with a sweeping epic feel enabled and undercut by how often they interrupt or redirect their seeping electronic groove.",
+      "author": "Lucas Fagen, ",
+      "source": "City Pages"
+    }
+  ],
+  "stagePlotNotes": "4-piece band 4 monitor mixes, 1 center keys vocal (through vocal processor which also handles sax), & 1 guitar vocal. Stereo in for keyboard, stereo in for laptop, mics for 2 guitar amps, DI for Bass, mics for 4 piece drumkit.",
+  "contactInfo": {
+    "bookingEmail": "longfallmusic@gmail.com",
+    "phone": null,
+    "management": "Minnesonic Talent Booking",
+    "socials": {
+      "facebook": "https://www.facebook.com/Longfallmusic/",
+      "youtube": "https://www.youtube.com/@longfallmusic",
+      "spotify": "https://open.spotify.com/artist/0FtP7C2Qu94237q5TTK3tP"
+    }
+  }
+}
