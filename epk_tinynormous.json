@@ -1,0 +1,100 @@
+{
+  "seo": {
+    "title": "Tinynormous | Official Electronic Press Kit (EPK)",
+    "description": "Groovy Instrumentals",
+    "ogImage": "assets/heroBanner.jpg"
+  },
+  "artistName": "Tinynormous",
+  "tagline": "Instrumentally Chill",
+  "location": "Minneapolis / St. Paul, MN",
+  "genreTags": [],
+  "pressKitDownloadUrl": "TinynormousPressKit_26.pdf",
+  "assets": {
+    "heroBannerImage": "assets/heroBanner.jpg",
+    "artistLogoImage": "assets/artistLogo.png",
+    "stagePlotImage": "assets/stagePlot.png",
+    "techRiderDocument": null
+  },
+  "heroVideo": {
+    "type": "youtube",
+    "videoId": "-MYVxPC5qzQ",
+    "caption": "Live at White Squirrel 8-28-2026",
+    "aspectRatio": "16x9"
+  },
+  "shortBio": null,
+  "fullBio": [
+    "Genre bending, mind winding, groovy instrumentals",
+    "After releasing the debut 12\" vinyl \"Mellow Toning\" in 2025 and the live comilation CD \"All Are Welcome\" in 2026, Tinynormous is currently taking some time off to write and record, but will return to the stage in early 2027 leading up to another Analog Avalon Festival in the coming Summer!" 
+  ],
+  "notableHighlights": [
+    "We believe in the live experience. None of our music is on streaming platforms. We'd rather you come to a show and maybe pick up a CD or vinyl while saying hi",
+    "2026 was a wild ride and we are currently writing and recording a very special soundtrack project. Details soon!",
+    "Some of our favorite shows are available on our <a href=\"https://www.youtube.com/c/tinynormous\">youtube channel</a>",
+    "We can't wait to dshow on what we're working, but you've gotta be patient. We promise it'll be worth the wait :)"
+  ],
+  "spotifyEmbedUrl": null,
+  "tracks": [
+    {
+      "title": "Close Approximation (6-12-2026)",
+      "src": "assets/closeApproximation_analogAvalonFestival2026.mp3",
+      "description": "Close Approximation recorded live 6-12-2026 at Analog Avalon Festival with Mark Nutter on rhythm guitar and Jason Flinn on drums"
+    },
+    {
+      "title": "Hashbrowns (8-16-2025)",
+      "src": "assets/hashbrowns_upTownPorchfest2025.mp3",
+      "description": "Hashbrowns recorded live 8-16-2025 at Uptown Porchfest - featuring one of Dev's famous rants"
+    }
+  ],
+  "pressPhotos": [
+    {
+      "src": "assets/pressPhoto01.jpg",
+      "caption": "Live at the Mellow Toning album release show",
+      "hiResUrl": "assets/pressPhoto01_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto02.jpg",
+      "caption": "Mellow Toning cover",
+      "hiResUrl": "assets/pressPhoto02_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto03.jpg",
+      "caption": "In the Arrow-Tone Productions recording Mellow Toning",
+      "hiResUrl": "assets/pressPhoto03_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto04.jpg",
+      "caption": "Live 1-17-26 with Topher Dunlap sitting in on Sax",
+      "hiResUrl": "assets/pressPhoto04_hiRes.jpg"
+    }
+  ],
+  "pressQuotes": [
+    {
+      "quote": "...they combine jazz fusion complexity with melodic immediacy, keeping the listener attached to their sound from start to finish....an eclectic, wide range of influences from Joe Satriani and Jimi Hendrix to Jeff Buckley.",
+      "author": "lastdaydeaf.com",
+      "source": null
+    },
+    {
+      "quote": "An atmospheric instrumental journey.... Tinynormous... bypasses the mind and goes straight for our souls. With a blend of rich instrumentals and intricately placed beats.",
+      "author": "glassefactory.com",
+      "source": null
+    },
+    {
+      "quote": "Harmony, guitars, and sensitivity” perfectly encapsulate ... warm and inviting",
+      "author": "rocktails.tv",
+      "source": "translated from Spanish"
+    }
+  ],
+  "stagePlotNotes": "5-piece requires a minimum of 3 monitors & 1 center guitar vocal. XLR for lead guitar (2 if stereo), DI box for Bass, DI for sax, stereo 1/4\" for keys, DI for rhythm guitar, mics for 4 piece drumkit with plenty of cymbals as needed",
+  "contactInfo": {
+    "bookingEmail": "booking@minnesonic.com",
+    "phone": null,
+    "management": "Minnesonic Talent Booking",
+    "socials": {
+      "instagram": "https://www.instagram.com/tinynormous/",
+      "facebook": "https://www.facebook.com/tinynormous",
+      "youtube": "https://www.youtube.com/c/tinynormous",
+      "bandcamp": "https://tinynormous.bandcamp.com/album/mellow-toning",
+      "soundcloud": "https://soundcloud.com/tinynormo-us"
+    }
+  }
+}

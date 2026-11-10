@@ -1,0 +1,94 @@
+{
+  "seo": {
+    "title": "Maggie Black | Official Electronic Press Kit (EPK)",
+    "description": "Twin Cities 90s Alternative Rock Tribute Trio - Live booking, bio, music samples, and high-res media assets.",
+    "ogImage": "assets/heroBanner.jpg"
+  },
+  "artistName": "Maggie Black",
+  "tagline": "Get fuckin' ready, freak bitches!",
+  "location": "Minneapolis / St. Paul, MN",
+  "genreTags": [],
+  "pressKitDownloadUrl": null,
+  "assets": {
+    "heroBannerImage": "assets/heroBanner.jpg",
+    "artistLogoImage": "assets/artistLogo.png",
+    "stagePlotImage": "assets/stagePlot.png",
+    "techRiderDocument": null
+  },
+  "heroVideo": {
+    "type": "direct",
+    "videoId": "https://analogavalon.com/backdoor/vids/maggieBlack_asphodel_analogAvalon2026.mp4",
+    "caption": "Aspodel live at Analog Avalon Festival 2026",
+    "aspectRatio": "16x9"
+  },
+  "shortBio": null,
+  "fullBio": [
+    "Maggie Black is a piano based singer songwriter from Chicago, whose eclectic style draws from influences such as Suzanne Vega, Jeff Buckley, Fiona Apple, Leonard Cohen, and Amy Winehouse. She is currently recording her first album on an 8 track with the help of the musical maverick Dev Jana. If you ask her about this project she might retreat into the nearest snail's shell and raise a sign that reads 'please come back when I'm done,' but she promises it'll be done soon."
+  ],
+  "notableHighlights": [
+    "After apearances at Crooner's, White Squirrel, Green Room, Analog Avalon Festival, and others, Maggie is currently wrapping her debut full length 'Daggers'",
+    "A focus on songwriting that will twist your fucking soul into knots, you asshole",
+    "Debut Album 'Daggers' coming soon :)"
+  ],
+  "spotifyEmbedUrl": null,
+  "tracks": [
+    {
+      "title": "Stained Glass",
+      "src": "assets/stainedGlass_mix00.mp3",
+      "description": "Stained Glass: a sneak peak of one of the tracks from the upcoming Daggers"
+    },
+    {
+      "title": "The Lighthouse",
+      "src": "assets/theLighthouse_premaster.mp3",
+      "description": "Solo piano/vocal performance. Sneak preview of a song from Daggers"
+    },
+    {
+      "title": "Singing to the Night",
+      "src": "assets/singingToTheNight_1-17-2026.mp3",
+      "description": "Singing to the Night recorded live 1-17-20026 at White Squirrel in St Paul MN"
+    }
+  ],
+  "pressPhotos": [
+    {
+      "src": "assets/pressPhoto01.png",
+      "caption": "What?",
+      "hiResUrl": "assets/pressPhoto01_hiRes.png"
+    },
+    {
+      "src": "assets/pressPhoto02.png",
+      "caption": "Singing to the Night",
+      "hiResUrl": "assets/pressPhoto02_hiRes.png"
+    },
+    {
+      "src": "assets/pressPhoto03.png",
+      "caption": "So many songs. to write",
+      "hiResUrl": "assets/pressPhoto03_hiRes.png"
+    },
+    {
+      "src": "assets/pressPhoto04.png",
+      "caption": "Ready to dream",
+      "hiResUrl": "assets/pressPhoto04_hiRes.png"
+    }
+  ],
+  "pressQuotes": [
+    {
+      "quote": "So dope you'll forget about Fionna Crapple & Amy Outhouse",
+      "author": "Soup Soggy Sog",
+      "source": null
+    },
+    {
+      "quote": "Rocket ships go up, not out.",
+      "author": "Bill Nye",
+      "source": null
+    }
+  ],
+  "stagePlotNotes": "Solo shows: Stereo 35mm for piano & vocal mic with one wedge. Trio shows: add bass DI, mics for 4 piece drum kit with 2 additional vocal mics & wedges.",
+  "contactInfo": {
+    "bookingEmail": "booking@minnesonic.com",
+    "phone": null,
+    "management": "Minnesonic Talent Booking",
+    "socials": {
+      "instagram": "https://www.instagram.com/magdalen_music/"
+    }
+  }
+}

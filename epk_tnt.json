@@ -1,0 +1,102 @@
+{
+  "seo": {
+    "title": "The Nine Teas | Official Electronic Press Kit (EPK)",
+    "description": "Twin Cities 90s Alternative Rock Tribute Trio - Live booking, bio, music samples, and high-res media assets.",
+    "ogImage": "assets/heroBanner.jpg"
+  },
+  "artistName": "The Nine Teas",
+  "tagline": "The Twin Cities' Jammin'-est 90's Rock Tribute!",
+  "location": "Minneapolis / St. Paul, MN",
+  "genreTags": [],
+  "pressKitDownloadUrl": null,
+  "assets": {
+    "heroBannerImage": "assets/heroBanner.jpg",
+    "artistLogoImage": "assets/artistLogo.png",
+    "stagePlotImage": "assets/stagePlot.png",
+    "techRiderDocument": null
+  },
+  "heroVideo": {
+    "type": "facebook",
+    "videoId": "28578557215145537",
+    "caption": "Now booking for early 2027",
+    "aspectRatio": "4x3"
+  },
+  "shortBio": null,
+  "fullBio": [
+    "The Nine Teas (T.N.T.) is the Twin Cities’ premier power trio delivering high-energy 90s alternative rock, grunge, and pop-punk anthems. From raucous full-electric festival sets to intimate 'T.N.T. Unplugged' acoustic shows, we'll bring the final decade of last millenuim's biggest hits and crowd sing-alongs to stages across Minnesota & Wisconsin."
+  ],
+  "notableHighlights": [
+    "Always on time and ready to rock",
+    "Stage veteran leadership & accountability, but with the fun & excitement of a fresh act",
+    "We'll play the hits and those deep cut nostalgia blasts",
+    "Moments of improv musicianship punctuate a show that is more than just boring rote covers",
+    "Able to provide sound and/or lights for smaller/medium venues"
+  ],
+  "spotifyEmbedUrl": null,
+  "tracks": [
+
+    {
+      "title": "Come Down (Bush)",
+      "src": "assets/comeDown_9-5-2026.mp3",
+      "description": "Come Down by Bush recorded live 9-5-2026 at the MN State Fair"
+    },
+    {
+      "title": "In Bloom (Nirvana)",
+      "src": "assets/inBloom_4-8-2026.mp3",
+      "description": "In Bloom by Nirvana recorded live 4-8-2026 @ Max's in Stillwater WI"
+    },
+    {
+      "title": "Inside Out (Eve 6)",
+      "src": "assets/insideOut_10-30-2026.mp3",
+      "description": "Inside Out by Eve 6 recorder live 10-30-2026 at  Willow River Saloon in Hudson WI"
+    },
+    {
+      "title": "What Its Like (Everlast)",
+      "src": "assets/whatItsLike_5-12-2026.mp3",
+      "description": "What Its Like by Everlast recorded live 5-12-2026 at Gambit Brewing in St paul MN"
+    }
+  ],
+  "pressPhotos": [
+    {
+      "src": "assets/pressPhoto01.jpg",
+      "caption": "Live 10-30-2026",
+      "hiResUrl": "assets/pressPhoto01_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto02.jpg",
+      "caption": "Cookies & Tea",
+      "hiResUrl": "assets/pressPhoto02_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto03.jpg",
+      "caption": "At MN State Fair 2026 (wide)",
+      "hiResUrl": "assets/pressPhoto03_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto04.jpg",
+      "caption": "Baby its cold outside",
+      "hiResUrl": "assets/pressPhoto04_hiRes.jpg"
+    }
+  ],
+  "pressQuotes": [
+    {
+      "quote": "They rocked too hard & wouldn't play the Electric Slide!",
+      "author": "Karen",
+      "source": null
+    },
+    {
+      "quote": "I want to hate them because they are so loud, but they are just too darn handsome.",
+      "author": "Your Mom",
+      "source": null
+    }
+  ],
+  "stagePlotNotes": "3-piece power trio requires 3 monitor mixes, 1 drum vocal, 1 center guitar vocal, and 1 bass vocal. XLR for guitar signal (2 if stereo), DI box for Bass, mics for 4 piece drumkit with plenty of cymbals.",
+  "contactInfo": {
+    "bookingEmail": "booking@minnesonic.com",
+    "phone": null,
+    "management": "Minnesonic Talent Booking",
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61587067874668"
+    }
+  }
+}
