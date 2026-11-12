@@ -1,0 +1,81 @@
+{
+  "seo": {
+    "title": "Dev Jana & the Sharp Objects | Official Electronic Press Kit (EPK)",
+    "description": "Twin Cities 90s Alternative Rock Tribute Trio - Live booking, bio, music samples, and high-res media assets.",
+    "ogImage": "assets/heroBanner.jpg"
+  },
+  "artistName": "Dev Jana",
+  "tagline": "& the Sharp Objects",
+  "location": "MN",
+  "genreTags": [ "alternative", "rock", "solp acoustic", "grunge" ],
+  "pressKitDownloadUrl": null,
+  "assets": {
+    "heroBannerImage": "assets/heroBanner.jpg",
+    "artistLogoImage": "assets/artistLogo.png",
+    "stagePlotImage": "assets/stagePlot.png",
+    "techRiderDocument": null
+  },
+  "heroVideo": {
+    "type": "facebook",
+    "videoId": "28578557215145537",
+    "caption": "Now booking for early 2027",
+    "aspectRatio": "4x3"
+  },
+  "shortBio": null,
+  "fullBio": [
+    "The Nine Teas (T.N.T.) is the Twin Cities’ premier power trio delivering high-energy 90s alternative rock, grunge, and pop-punk anthems. From raucous full-electric festival sets to intimate 'T.N.T. Unplugged' acoustic shows, we'll bring the final decade of last millenuim's biggest hits and crowd sing-alongs to stages across Minnesota & Wisconsin."
+  ],
+  "notableHighlights": [
+    "Currenlty releasing full band recordings and playing solo acoustic live",
+    "Over 30 years performing live",
+    "Everywhere from Burlington Vt to Sunset Strip",
+    "Punctual courteous, & profession, butsomehow not bland",
+    "Solo acoustic show is great for early shows or as an opening act, full band also available"
+  ],
+  "spotifyEmbedUrl": "https://open.spotify.com/embed/album/15RsNbXrbwZsAeEMEpARMp?utm_source=generator&si=e24124b98fc1466e",
+  "tracks": [
+  ],
+  "pressPhotos": [
+    {
+      "src": "assets/pressPhoto01.jpg",
+      "caption": "Live 10-30-2026",
+      "hiResUrl": "assets/pressPhoto01_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto02.jpg",
+      "caption": "Cookies & Tea",
+      "hiResUrl": "assets/pressPhoto02_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto03.jpg",
+      "caption": "At MN State Fair 2026 (wide)",
+      "hiResUrl": "assets/pressPhoto03_hiRes.jpg"
+    },
+    {
+      "src": "assets/pressPhoto04.jpg",
+      "caption": "Baby its cold outside",
+      "hiResUrl": "assets/pressPhoto04_hiRes.jpg"
+    }
+  ],
+  "pressQuotes": [
+    {
+      "quote": "They rocked too hard & wouldn't play the Electric Slide!",
+      "author": "Karen",
+      "source": null
+    },
+    {
+      "quote": "I want to hate them because they are so loud, but they are just too darn handsome.",
+      "author": "Your Mom",
+      "source": null
+    }
+  ],
+  "stagePlotNotes": "3-piece power trio requires 3 monitor mixes, 1 drum vocal, 1 center guitar vocal, and 1 bass vocal. XLR for guitar signal (2 if stereo), DI box for Bass, mics for 4 piece drumkit with plenty of cymbals.",
+  "contactInfo": {
+    "bookingEmail": "booking@minnesonic.com",
+    "phone": null,
+    "management": "Minnesonic Talent Booking",
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61587067874668"
+    }
+  }
+}
