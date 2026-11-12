@@ -1,18 +1,100 @@
-{
-  "shows": [
-    {
-      "date" : "12-12-2026",
-      "playing": "The Nine Teas",
-      "vanue": "Willow River Saloon",
-      "location": "Hudson, WI",
-      "description": "opener TBD, music starts at 8:00!"
-    },
-    {
-      "date" : "12-31-2026",
-      "playing": "The Nine Teas",
-      "vanue": "Willow River Saloon",
-      "location": "Hudson, WI",
-      "description": "New Years Eve Bash! opener TBD, music starts at 8:00"
-    }
-  ]
+{ 
+    "shows" : [
+        {
+            "artist": "The Nine Teas",
+            "date": "7/10/26",
+            "location": "St Paul, MN",
+            "description": "Gambit Brewing"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "7/11/26",
+            "location": "Crystal, MN",
+            "description": "Crystal VFW"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "7/18/26",
+            "location": "Minneapolis, MN",
+            "description": "Shaw's"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "8/7/26",
+            "location": "St Paul, MN",
+            "description": "Gambit Brewing"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "8/8/26",
+            "location": "Crystal, MN",
+            "description": "Crystal VFW"
+        },
+        {
+            "artist": "Tinynormous",
+            "date": "8/15/26",
+            "location": "Minneapolis, MN",
+            "description": "Uptown Porchfest: 2645 Aldrich Ave S"
+        },
+        {
+            "artist": "Tinynormous",
+            "date": "8/28/26",
+            "location": "St Paul, MN",
+            "description": "White Squirrel Bar. Full lineup TBA"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "9/4/26",
+            "location": "MN State Fair",
+            "description": "Giggles Bar Main Stage 8-10PM"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "9/5/26",
+            "location": "MN State Fair",
+            "description": "Giggles Bar Main Stage 8-10PM"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "10/17/26",
+            "location": "Arden Hills, MN",
+            "description": "Welch's Big Ten Tavern Shoreview (w/ Special Guest Sami Sati acoustic)"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "12/11/26",
+            "location": "Hudson, WI",
+            "description": "Willow River Saloon (w/ Special Guest: TBD)"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "12/31/26",
+            "location": "Hudson, WI",
+            "description": "Willow River Saloon (New Year's eve Bash w/ Special Guests TBA)"
+        },
+        {
+            "artist": "Tinynormous",
+            "date": "4/3/27",
+            "location": "St Paul, MN",
+            "description": "White SquirrelSpecial Guests TBA)"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "5/29/27",
+            "location": "Hudson, WI",
+            "description": "Willow River Saloon (Special Guests TBA)"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "7/31/27",
+            "location": "Hudson, WI",
+            "description": "Willow River Saloon (Special Guests TBA)"
+        },
+        {
+            "artist": "The Nine Teas",
+            "date": "9/25/27",
+            "location": "Hudson, WI",
+            "description": "Willow River Saloon (Special Guests TBA)"
+        }
+    ]
 }
